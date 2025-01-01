@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spsvision
 - 👀 I’m interested in solutions that combat climate change and improve society
-- 🌱 I’m currently a design engineer in the greater Toronto area
+- 🌱 I’m currently working at an Engineering Consultancy Firm in the greater Toronto area
 - 📫 How to reach me ==> steven-ps@hotmail.com
 
 <!---
